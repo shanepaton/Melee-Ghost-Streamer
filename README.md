@@ -54,10 +54,10 @@ The url to the bracket on start.gg. Enable `Toggle fetching current match` to ap
 
 ![Twitch icon](doc/startgg_stream.png) ![YouTube icon](doc/startgg_yt_stream.png)
 
-The url is the sourced from the bracket page
-Example: `https://www.start.gg/tournament/not-a-real-tournament/event/melee-singles/brackets/0000000/0000000`
-
 Note that if your brackets are split over multiple pages you will need to change the url to the bracket that has the current stream match going on.
+
+Example: 
+`https://www.start.gg/tournament/not-a-real-tournament/event/melee-singles/brackets/0000000/0000000`
 
 ### Players
 
